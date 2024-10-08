@@ -35,7 +35,7 @@ streamli run main.py
 
 ## Usage
 1. Open the Streamlit app in your browser.
-2., In the sidebar, upload your resume (PDF format).
+2. In the sidebar, upload your resume (PDF format).
 3. Enter the role you're applying for, the company name, and the job description.
 4. Click **Generate Cover Letter** to receive your personalized cover letter.
 5. View the result within the app.
